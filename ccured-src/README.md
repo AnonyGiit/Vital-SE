@@ -1,6 +1,6 @@
 # Tutorial of using `ccured`
 
-After installing the tool, copy the instrument file `neschecklib.bc` and the ccured analysis library `libccured.so` to the testing folder (`examples/fastklee-test` in this demo) and follow the following steps to perform testing.
+After installing the tool, copy the instrument file `neschecklib.bc` and the ccured analysis library `libccured.so` to the testing folder (e.g., `examples/from-chopped-se`) and follow the following steps to perform testing.
 
 ## 1. Compile source code to the intermediate representation (IR)
 

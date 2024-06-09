@@ -1,6 +1,6 @@
 ## Build GNU coreutils
 
-We follow the building instruction from KLEE's official website: https://klee-se.org/tutorials/testing-coreutils/
+We follow the building instructions from KLEE's official website: https://klee-se.org/tutorials/testing-coreutils/
 
 To build it, run `./build-coreutils.sh` in this folder.
 
